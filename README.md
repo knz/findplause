@@ -1,0 +1,2 @@
+# findplause
+Slack reaction finder
